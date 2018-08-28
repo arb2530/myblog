@@ -8,11 +8,11 @@
 a {
   text-decoration: none;
 }
-.background-image{
-  background-image: image_url("generic_background.jpg");
-  background-repeat: no-repeat;
-  background-position: center;
-  background-size: cover;
+.background-image {
+    background-image: url(https://www.busyboo.com/wp-content/uploads/folding-kayak-oru-1-1000x667.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
 }
 .navigation-bar{
   background-color: rgba(0,0,0, 0.01);
